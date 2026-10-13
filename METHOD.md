@@ -86,6 +86,8 @@ The verification column also says *how* the check was made:
 - **VERIFIED (search):** the passage, with its reference, was confirmed through web search results drawn from the linked page, but the page itself was not opened and read in full. This is a weaker check. Entries marked this way should be re-checked by direct reading when possible.
 - **UNVERIFIED:** the reference could not be confirmed. An unverified citation does not count, however likely it seems.
 
+"VERIFIED (search)" is accepted for drafts, for research and for the Register. **An article can be admitted to the Code only when every counted citation in its evidence table is VERIFIED (direct).** (Decided 2026-10-13; see section 9.)
+
 If a reference is numbered differently in different editions (for example, the Mahabharata, Seneca's letters or the verses of some scriptures), both numbers are given.
 
 ### Rules that are never broken
@@ -135,6 +137,8 @@ Each Register entry:
 
 The aim is to narrow each disagreement, never to declare a winner between traditions.
 
+**How a tradition's later authorities are used.** When an article is tested, a tradition's later authorities never outweigh a counted text that contradicts the article: they are shown as the tradition's own reconciliation, but the label stands. In the Register, they matter more. A Logical part can be marked resolved for a tradition (or for one of its branches) when an authority that the tradition or branch itself treats as binding has reasoned from the tradition's own principles to the conclusion in question. Whether a principle resolved in this way may then enter the Code would be a change to the settled rule that texts are the test of agreement, and only the project lead can make that change. It has not been made. (Decided 2026-10-13; see section 9.)
+
 ---
 
 ## 6. The hypothesis being tested
@@ -157,3 +161,21 @@ This may be false. If it is, the exact list of questions that cannot be narrowed
 ## 8. How to challenge the work
 
 The Code belongs to no one and is open to challenge by anyone with evidence and good reason. If you think a citation is wrong, a translation is unfair, a passage has been missed, a rating is too generous or too harsh, or an article asks more than a tradition really asks, please raise it with the reference and your reasoning. Every change is recorded in [`CHANGELOG.md`](CHANGELOG.md).
+
+---
+
+## 9. Decisions on method made so far
+
+On 13 October 2026, while the first article was being tested, the project lead decided some questions and left the rest to the project's judgement. The decisions below were made on that basis. Each gives its reason, and the project lead may revisit any of them. None changes the settled decisions in the project brief (its Section 2), and none was made to rescue or sink an article: where a decision could have changed a tradition's result in the first article, this says so.
+
+1. **The tier and branch rules stay as written** (decision D1 on Article I). A Tier 2 text that only one major branch treats as primary does not show what the whole tradition teaches, unless a text the other branch accepts teaches the same thing. Reasons are in [`sources/corpus.md`](sources/corpus.md).
+2. **A wider duty counts** (decision D3). A text teaching "harm no one" teaches any narrower duty not to harm that it includes, provided it reaches everyone the narrower duty reaches (section 3).
+3. **What a branch is.** A branch is a living part of a tradition that has its own accepted body of texts and is treated as one of the tradition's main divisions in standard reference works, whatever its size. Karaite Judaism is a branch. Historical schools with no separate living community today (for example Han to Tang classical learning in Confucianism) are not branches; their texts may be shown as context. *Effect on Article I: none; Karaite readings of the relevant verses are to be checked.*
+4. **What "treated as primary" means.** A Tier 2 text is treated as primary only where the tradition itself places it with its primary scripture, not below it. So the writings of ʿAbdu'l-Bahá are treated as primary (Bahá'ís hold them to be part of their sacred text). The Mahabharata is not, despite its very high standing, because Hindu tradition's own rule ranks it, as remembered tradition (*smṛti*), below revealed scripture (*śruti*). The Five Classics stay in Tier 2 for Confucianism. *Effect on Article I: none; this matches how these texts were already counted.*
+5. **Hadith outside Bukhārī and Muslim.** A hadith from the other Sunni collections counts as part of the Sunnah, and so as treated as primary for Sunni Islam, when it is graded sound (*ṣaḥīḥ*) or good (*ḥasan*, including *ḥasan ṣaḥīḥ*) by a recognised hadith scholar and the grading is recorded. Sunni legal theory accepts such hadith as evidence. The branch rule applies: a Sunni-graded hadith speaks for Shia Islam only if a Shia source or the Qur'an teaches the same. *Effect on Article I: none; Qur'an 4:34 already decided the result to which Abū Dāwūd 495 is relevant.*
+6. **Verification.** "VERIFIED (search)" is accepted for drafts, research and the Register, but an article can be admitted only when every counted citation in its evidence table has been read directly (section 3). Reason: the project's trustworthiness rests on its citations, and a search result is a weaker check than reading the page.
+7. **Later authorities** count as the tradition's own reconciliation when an article is tested, and as evidence for Logical parts in the Register, but never outweigh a contradicting counted text (section 5).
+8. **Narrowing by an authorised interpreter.** A verified ruling of a body that `sources/corpus.md` lists as authorised to interpret a tradition's texts (so far, only the Universal House of Justice for the Bahá'í Faith) may make a result *unclear* when it narrows what a counted text teaches. It never makes a result *contradicted* or *taught* on its own.
+9. **"By plain reference."** A general clause reaches a practice by plain reference when the practice, by definition, denies what the clause guarantees, and the tradition's counted texts nowhere accept the practice. A clause guaranteeing every person's legal freedom and autonomy therefore reaches slavery (secular humanism). A clause on the common origin of all people does not (it is Implied evidence only).
+10. **Households and slavery** (decision D2). The article's floor covers households, and its wording there is the lowest of the three tested: *no cruelty* (do not injure, torment, starve, overwork or humiliate anyone in your power), with "injure" meaning harm beyond moderate physical correction. Owning people, physical punishment of those in one's care, and sexual relations without consent with someone in one's power go to the Register as an open question ([Q-002](register/q-002-households-and-slavery.md)). Reason: an article states the minimum every tradition asks (the brief's settled decision 4, and step 2 of the method); the other two wordings ask more, and most traditions' counted texts either contradict them or are silent.
+11. **The five changes to the source texts** made before any article was tested (marked in bold in [`sources/corpus.md`](sources/corpus.md)) are approved, for the reasons recorded there.

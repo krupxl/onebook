@@ -2,7 +2,7 @@
 
 This file fixes which texts count as evidence for each of the thirteen traditions. It confirms or refines the starting corpus in the project brief (Section 4). Every change is listed with its reason.
 
-**Version 1.1, 2026-10-13.** (Version 1.1 flags Humanist Manifesto II as historical, records the review of the tier and branch rules, and corrects the list of Gathas to include Yasna 53; no text was moved between tiers.) The corpus can be changed later, but only openly: any change must be recorded here and in `CHANGELOG.md`, with reasons, and must never be made to rescue or sink a particular article.
+**Version 1.2, 2026-10-13.** (Version 1.1 flagged Humanist Manifesto II as historical, recorded the review of the tier and branch rules, and corrected the list of Gathas to include Yasna 53. Version 1.2 records the decisions on method of 13 October 2026, listed in `METHOD.md`, section 9: the five changes marked in bold below are approved; what counts as a branch and as "treated as primary" is defined; and hadith outside Bukhārī and Muslim are dealt with. No text was moved between tiers, and no tradition's result in Article I changed.) The corpus can be changed later, but only openly: any change must be recorded here and in `CHANGELOG.md`, with reasons, and must never be made to rescue or sink a particular article.
 
 ## How the tiers work
 
@@ -10,7 +10,9 @@ This file fixes which texts count as evidence for each of the thirteen tradition
 - **Tier 2 (authoritative):** major traditional commentary, or texts that the tradition itself treats as carrying authority.
 - **The tier rule.** A Tier 2 text may support or explain Tier 1. It may not be the *only* evidence for a tradition unless that tradition genuinely treats the text as primary. Where we judge that a Tier 2 text *is* treated as primary, this file says so in advance, with the reason, under "Treated as primary".
 - **Reconciling authorities.** Some Tier 2 texts are listed only so that we can show how a tradition itself explains a hard passage (the brief's "no cherry-picking" rule). They are marked "for reconciliation". They never count as the main evidence for an article.
-- **Branches.** Where branches of a tradition accept different texts, we name the branch. An article must not rest on a text that a major branch rejects, unless another text that branch accepts teaches the same thing.
+- **Branches.** Where branches of a tradition accept different texts, we name the branch. An article must not rest on a text that a major branch rejects, unless another text that branch accepts teaches the same thing. A branch is a living part of a tradition with its own accepted body of texts, treated as one of the tradition's main divisions in standard reference works, whatever its size; historical schools with no separate living community today are not branches (decided 2026-10-13).
+- **What "treated as primary" means.** A Tier 2 text is treated as primary only where the tradition itself places it with its primary scripture, not below it (decided 2026-10-13).
+- **Approval of the changes in bold.** The five changes marked in bold below, which alter what can count on its own, were made before any article was tested and were approved on 2026-10-13, for the reasons given with each.
 - **Review of the tier and branch rules (2026-10-13).** Testing Article I raised the question whether a Tier 2 text that one major branch treats as primary may count for the whole tradition when the other branch's texts are silent (decision D1 in [Article I](../code/articles/article-01-golden-rule.md)). The project lead left the choice to the project's judgement, and both rules were **kept as written**, for four reasons:
   1. The brief's settled decisions require that every tradition *clearly teach* an article. Where a major branch's own authoritative texts do not teach a principle, that has not been shown. Loosening this would weaken a settled decision, which needs the project lead's explicit approval.
   2. The rules already bind other traditions in the same way: Judaism must not rest on the Talmud alone, Śvetāmbara texts do not speak for Digambaras, and Islam shows Qur'anic evidence where it exists. A change would reach all of them.
@@ -66,7 +68,7 @@ The five changes in **bold** alter what can count on its own. They are flagged f
 5. *Dharmaśāstra widened and kept as contested.* Manusmṛti is not the only law book and was not always the most used in practice (Yājñavalkya and its commentary, the Mitākṣarā, were more influential in classical legal practice). Its authority is strongly contested within the tradition: B. R. Ambedkar publicly burned it in 1927; anti-caste movements reject it; Gandhi accepted it only where it agreed with truth and non-violence; the Arya Samaj accepts it only where it agrees with the Vedas. The tradition's own rule that smṛti yields to śruti where they conflict is recorded so that this contest can be represented fairly.
 6. *Tirukkural not counted.* Its religious affiliation is genuinely disputed (Jain authorship is widely argued; Hindu, Buddhist and non-sectarian claims also exist). It is not in the Sanskrit śruti or smṛti or the Tamil Śaiva canon. Counting it for Hinduism would risk resting a Hindu verdict on a text many Hindus do not treat as their scripture, and would risk counting the same text twice.
 
-**Note on the Mahabharata.** The Gita, a Tier 1 text, sits inside the Mahabharata, and the tradition calls *itihāsa* a "fifth Veda". We keep the Mahabharata in Tier 2, as the brief proposes, but record that its explicit teachings on right conduct carry near-primary weight in the tradition. This affects how the tier rule applies (see Article I).
+**Note on the Mahabharata.** The Gita, a Tier 1 text, sits inside the Mahabharata, and the tradition calls *itihāsa* a "fifth Veda". We keep the Mahabharata in Tier 2, as the brief proposes, and record that its explicit teachings on right conduct carry very high weight in the tradition. It is **not treated as primary** under the tier rule, because the tradition's own rule ranks remembered tradition (*smṛti*, which includes *itihāsa*) below revealed scripture (*śruti*) where they conflict (decided 2026-10-13). This affects how the tier rule applies (see Article I).
 
 ## 2. Judaism
 
@@ -84,7 +86,7 @@ The five changes in **bold** alter what can count on its own. They are flagged f
 
 **Excluded:** the Apocrypha (for example Tobit, Ben Sira). They are not in the rabbinic canon.
 
-**Treated as primary:** for Rabbinic Judaism (Orthodox, Conservative or Masorti in principle) the Mishnah and Talmud are the Oral Torah and are effectively primary for practice. Karaite Judaism rejects the Oral Torah and accepts only the Tanakh. Reform and Reconstructionist Judaism treat Talmud and codes as valued but not binding. For these reasons, Tier 1 evidence matters for Judaism, and an article should not rest on the Talmud alone.
+**Treated as primary:** for Rabbinic Judaism (Orthodox, Conservative or Masorti in principle) the Mishnah and Talmud are the Oral Torah and are effectively primary for practice. Karaite Judaism rejects the Oral Torah and accepts only the Tanakh. Reform and Reconstructionist Judaism treat Talmud and codes as valued but not binding. For these reasons, Tier 1 evidence matters for Judaism, and an article should not rest on the Talmud alone. Karaite Judaism counts as a branch under the branch rule, though it is small (decided 2026-10-13); where an article's Jewish evidence rests on Tier 1 alone, Karaite readings of the verses should be checked.
 
 **Reasons for changes**
 1. Both Talmuds are authoritative, and the Jerusalem Talmud holds an independent record of the teaching on Leviticus 19:18.
@@ -172,7 +174,7 @@ The five changes in **bold** alter what can count on its own. They are flagged f
 
 **Reasons for changes**
 1. The method requires the tradition's own authorities for reconciliation; Zhu Xi and the older commentaries are those authorities.
-2. For Han to Tang Confucianism the Five Classics were the primary canon; omitting them would misrepresent the tradition.
+2. For Han to Tang Confucianism the Five Classics were the primary canon; omitting them would misrepresent the tradition. They stay in Tier 2 and are **not treated as primary**: from 1313 the examination standard put the Four Books first, and Han to Tang classical learning is a historical school, not a living branch (decided 2026-10-13). Where the Five Classics bear on a question, they are always shown.
 3. Xunzi is authoritative for some modern Confucians but was officially marginalised in 1530.
 
 **Note on numbering.** ctext.org numbers Analects passages differently from Legge's printed edition in several books (for example ctext 15.24 is Legge XV.23). We give ctext numbers, with Legge's where they differ. The Great Learning's "commentary chapter 10" follows Zhu Xi's arrangement; Wang Yangming's school used the older text order.
@@ -247,7 +249,7 @@ Stoicism is a philosophical school, not a religion. It has no closed canon and n
 - Nahj al-Balāgha (sermons, letters and sayings attributed to ʿAlī ibn Abī Ṭālib; compiled by al-Sharīf al-Raḍī, d. 1015). Shia; highly revered; not treated as authoritative by most Sunni scholars. **Added.**
 - Al-Kāfī of al-Kulaynī (Twelver Shia; the foremost of the Four Books, though Shia scholars do not treat every report in it as sound). **Added.**
 - Classical commentaries, **for reconciliation only**: Qur'an commentary (*tafsīr*) of al-Ṭabarī and Ibn Kathīr; hadith commentaries of al-Nawawī, Ibn Ḥajar and Ibn Rajab. *Added.*
-- Optional leads: the other canonical Sunni collections (Abū Dāwūd, al-Tirmidhī, al-Nasāʾī, Ibn Mājah) and the Musnad of Aḥmad, used hadith by hadith with their grading.
+- The other canonical Sunni collections (Abū Dāwūd, al-Tirmidhī, al-Nasāʾī, Ibn Mājah) and the Musnad of Aḥmad, used hadith by hadith with their grading. **A hadith from these collections counts as Sunnah (treated as primary for Sunni Islam) when it is graded sound (*ṣaḥīḥ*) or good (*ḥasan*, including *ḥasan ṣaḥīḥ*) by a recognised hadith scholar and the grading is recorded** (decided 2026-10-13); Sunni legal theory accepts such hadith as evidence. Under the branch rule, a Sunni-graded hadith speaks for Shia Islam only if a Shia source or the Qur'an teaches the same. Hadith graded weak do not count.
 
 **Treated as primary:** both Sunni and Shia legal theory name the Qur'an and the Sunnah (the Prophet's authenticated teaching and example) as the two primary sources. So, under the tier rule, an authentic (*ṣaḥīḥ*) hadith may count even where the Qur'an is silent. The collections differ by branch, and a small Qur'an-only minority rejects hadith altogether, so articles should show Qur'anic evidence wherever it exists.
 
@@ -275,9 +277,9 @@ Stoicism is a philosophical school, not a religion. It has no closed canon and n
 - Writings of the Báb. **Flagged:** Bahá'ís regard them as revealed, but many of the Báb's laws were changed by Bahá'u'lláh, so on conduct they are supporting, not decisive.
 
 **Tier 2**
-- Authenticated writings of ʿAbdu'l-Bahá (for example *Selections*, *Some Answered Questions*, *The Secret of Divine Civilization*, the *Will and Testament*). **Flagged as near-primary:** the tradition treats these as part of its sacred text and as authorised interpretation.
+- Authenticated writings of ʿAbdu'l-Bahá (for example *Selections*, *Some Answered Questions*, *The Secret of Divine Civilization*, the *Will and Testament*). **Treated as primary:** the tradition treats these as part of its sacred text and as authorised interpretation (previously flagged "near-primary"; clarified 2026-10-13).
 - Writings of Shoghi Effendi (authorised interpreter).
-- Elucidations and legislation of the Universal House of Justice, including the Notes to the Kitáb-i-Aqdas.
+- Elucidations and legislation of the Universal House of Justice, including the Notes to the Kitáb-i-Aqdas. The tradition treats the House of Justice as authorised to elucidate its texts; under `METHOD.md`, section 9 (decision 8), a verified ruling of it may make a result unclear but never decides one on its own.
 - Talks of ʿAbdu'l-Bahá recorded by others (*Paris Talks*, *Promulgation of Universal Peace*): clarifying only, because many transcripts were not authenticated.
 
 **Excluded:** pilgrims' notes and unofficial provisional translations, which the tradition itself says carry no authority.
