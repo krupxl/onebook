@@ -26,7 +26,7 @@ What this does not require, or does not settle (each is left to each tradition a
 **How the evidence is counted**
 
 1. A passage counts if it teaches the test itself for harm: put yourself in the other person's place, or take your own dislike of harm as the measure for others.
-2. A passage also counts if it teaches a wider duty not to harm others, because whoever keeps that duty keeps this floor. Such rows are marked "wider rule". (Decision D3 asks the project lead to confirm this.)
+2. A passage also counts if it teaches a wider duty not to harm others, because whoever keeps that duty keeps this floor. Such rows are marked "wider rule". The wider duty must reach everyone, not only some people. (Confirmed by the project lead on 2026-10-13, decision D3; now a general rule in `METHOD.md`, section 3.)
 3. Passages in the positive form ("treat others as you would want to be treated") count when they concern the manner of treating people, since treating someone as you would want to be treated rules out harming them in ways you would not accept.
 4. Strength is rated against this article's floor. The tier rule and branch rule in [`sources/corpus.md`](../../sources/corpus.md) apply.
 5. "VERIFIED (search)" means the reference and its content were confirmed through web search results from the linked page, not by reading the page in full (`METHOD.md`, section 3). Translations are listed in [`sources/translations.md`](../../sources/translations.md).

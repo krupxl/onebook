@@ -37,6 +37,8 @@ For each tradition we fix a list of texts in advance, in two tiers:
 
 Tier 2 texts may support or explain what Tier 1 says. A Tier 2 text may not be the *only* evidence for a tradition, unless that tradition genuinely treats the text as primary. Every citation records its tier, so you can see which kind of evidence it is.
 
+Some traditions have branches that accept different texts. A text that one major branch rejects cannot, on its own, show what the whole tradition teaches. It counts only if a text the other branch accepts teaches the same thing. This rule was reviewed on 13 October 2026, while testing the first article, and kept as written; the reasons are in [`sources/corpus.md`](sources/corpus.md).
+
 The full list for each tradition, and the reasons for it, are in [`sources/corpus.md`](sources/corpus.md).
 
 ### Translations
@@ -69,6 +71,8 @@ Each citation gets one of three ratings.
 - **Implied.** Someone could argue that the text supports the principle, but the text does not plainly teach it.
 
 **Only Explicit and Clear teaching count.** Implied evidence is written down, so that readers can see it, but it does not count towards agreement.
+
+**Wider rules.** A text can teach a principle by teaching a wider one that includes it. For example, "harm no one" includes "do not harm anyone in a way you would not want to be harmed yourself", because whoever keeps the first also keeps the second. Such a text counts towards the narrower principle, at the strength with which it teaches the wider one, and is marked "wider rule" in the evidence table. The wider rule must reach everyone the principle reaches: a duty owed only to some people does not count for a principle owed to all. (Confirmed by the project lead on 13 October 2026, while testing the first article.)
 
 Why have a "Clear teaching" rating at all? Because traditions teach in different ways. Some, such as Judaism and Islam, often teach through rules. Others, such as Taoism, Confucianism and Stoicism, often teach through sayings, stories and examples of good character. A tradition should not be counted as disagreeing just because it does not write in rules. But "Clear teaching" must not be stretched to make agreement appear where there is none.
 

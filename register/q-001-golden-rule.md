@@ -64,17 +64,19 @@ This is the Golden Rule in its full negative form: not only "do not harm others 
 
 When one major branch of a tradition accepts a Tier 2 text that states a principle, and another branch's primary texts do not state it, does the tradition "clearly teach" it? Under the rules as written in `sources/corpus.md`, no. This already affects Zoroastrianism (Pahlavi books) and the Digambara branch of Jainism (Saman Suttam). `sources/corpus.md` also says that no corpus rule may be changed to rescue or sink a particular article, so any decision must be made as a general rule, on its merits, for all thirteen traditions and all later articles.
 
+*Decided 2026-10-13.* The project lead left this to the project's judgement. The tier and branch rules were kept as written, for the reasons recorded in [`sources/corpus.md`](../sources/corpus.md) ("Review of the tier and branch rules"). For this question that means: Zoroastrianism meets the fuller rule only if a text that both traditionalists and reformists accept teaches it, and Digambara Jainism only if a Digambara or shared text does. Parts 1, 2 and 7 therefore stay open as textual questions.
+
 **Axiomatic residue**
 
 None identified so far, but the search for it has not been systematic. Parts 8 and 9 are candidates. They would prove reducible if each tradition's own authorities confine the graded-treatment texts to particular circumstances (Part 8), or if a measure combining one's own wishes with attention to the other person's is found in every tradition (Part 9). They would prove axiomatic if a tradition holds, as a foundational value, that people of another faith or allegiance may rightly be treated with less courtesy or honour.
 
 **Candidate floor (if any)**
 
-"Do not harm anyone in a way you would not want to be harmed yourself." This is drafted as [Article I](../code/articles/article-01-golden-rule.md). It is held because of the procedural question above (Zoroastrianism) and two further decisions recorded in the article.
+"Do not harm anyone in a way you would not want to be harmed yourself." This is drafted as [Article I](../code/articles/article-01-golden-rule.md). The project lead's decisions of 2026-10-13 are recorded there: the tier and branch rules stand (so Zoroastrianism must meet the floor in texts every branch accepts), a wider duty not to harm counts, and the floor now includes slavery and authority within households, with the exact wording to be decided later.
 
 **Next research step**
 
-1. Project lead decisions on the procedural question and on the article's other open decisions.
+1. Done (2026-10-13): project lead decisions on the procedural question and the article's open decisions. The project lead still has to decide the wording of the floor on households and slavery (Article I, decision D2).
 2. Read the Gathas in the main philological translations (Insler 1975; Humbach 1991; Kellens and Pirart) and in the Pahlavi *zand*, for Yasna 43, 45, 46 and 48 (Part 1).
 3. Find statements by Parsi high priests and an Iranian council of *mobeds* on the standing of the Pahlavi andarz literature (Part 2).
 4. Read in full Humanist Manifesto I, A Secular Humanist Declaration (1980), Humanist Manifesto 2000 and Kurtz's *Forbidden Fruit* (Part 3).

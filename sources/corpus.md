@@ -2,7 +2,7 @@
 
 This file fixes which texts count as evidence for each of the thirteen traditions. It confirms or refines the starting corpus in the project brief (Section 4). Every change is listed with its reason.
 
-**Version 1.0, 2026-10-13.** The corpus can be changed later, but only openly: any change must be recorded here and in `CHANGELOG.md`, with reasons, and must never be made to rescue or sink a particular article.
+**Version 1.1, 2026-10-13.** (Version 1.1 flags Humanist Manifesto II as historical and records the review of the tier and branch rules; no text was added or moved.) The corpus can be changed later, but only openly: any change must be recorded here and in `CHANGELOG.md`, with reasons, and must never be made to rescue or sink a particular article.
 
 ## How the tiers work
 
@@ -11,6 +11,13 @@ This file fixes which texts count as evidence for each of the thirteen tradition
 - **The tier rule.** A Tier 2 text may support or explain Tier 1. It may not be the *only* evidence for a tradition unless that tradition genuinely treats the text as primary. Where we judge that a Tier 2 text *is* treated as primary, this file says so in advance, with the reason, under "Treated as primary".
 - **Reconciling authorities.** Some Tier 2 texts are listed only so that we can show how a tradition itself explains a hard passage (the brief's "no cherry-picking" rule). They are marked "for reconciliation". They never count as the main evidence for an article.
 - **Branches.** Where branches of a tradition accept different texts, we name the branch. An article must not rest on a text that a major branch rejects, unless another text that branch accepts teaches the same thing.
+- **Review of the tier and branch rules (2026-10-13).** Testing Article I raised the question whether a Tier 2 text that one major branch treats as primary may count for the whole tradition when the other branch's texts are silent (decision D1 in [Article I](../code/articles/article-01-golden-rule.md)). The project lead left the choice to the project's judgement, and both rules were **kept as written**, for four reasons:
+  1. The brief's settled decisions require that every tradition *clearly teach* an article. Where a major branch's own authoritative texts do not teach a principle, that has not been shown. Loosening this would weaken a settled decision, which needs the project lead's explicit approval.
+  2. The rules already bind other traditions in the same way: Judaism must not rest on the Talmud alone, Śvetāmbara texts do not speak for Digambaras, and Islam shows Qur'anic evidence where it exists. A change would reach all of them.
+  3. The only immediate effect of a change would have been to admit a pending article. This file forbids changing a rule to rescue an article.
+  4. The open question is better treated as a textual one: whether the texts that every branch accepts teach the principle. For Zoroastrianism, that means searching the Avesta itself, which is being done for Article I.
+
+  The project lead may revisit this as a general rule at any time, decided on its merits for every tradition.
 
 ## Summary of changes from the proposed corpus
 

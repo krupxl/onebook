@@ -4,6 +4,12 @@ All changes to the Code, the Register and the method are recorded here, newest f
 
 ## 2026-10-13
 
+### Project lead decisions on Article I (D1 to D3)
+- **D3 (does a wider duty not to harm count?): yes.** Now a general rule in `METHOD.md` (section 3, "Wider rules"), with the condition, already applied in practice, that the wider duty must reach everyone the principle reaches.
+- **D1 (Tier 2 texts accepted by one branch): left to the project's judgement.** The tier and branch rules were kept as written; the four reasons are recorded in `sources/corpus.md` (now version 1.1, no text added or moved) and summarised in `METHOD.md` (section 2). For Article I, Zoroastrianism is to be re-tested in the Avesta itself.
+- **D2 (slavery and household authority): include them.** The floor is to cover slavery and authority within households, with the exact wording to be decided by the project lead after seeing what each tradition's texts say. Research started.
+- Register Q-001 updated to record the decisions.
+
 ### Independent check of Article I and Register Q-001; revisions (step 5, method step 7)
 - Five independent reviewers, each given only the finished files, checked draft Article I and Register entry Q-001: three verified every citation by groups of traditions and searched for missed counter-evidence, one reviewed wording, neutrality and logic, and one reviewed the Register entry for fairness. Their findings and how each was addressed are recorded in the article's "Independent check" section.
 - A further verification pass confirmed most of the newly raised counter-evidence and the traditions' own reconciliations; items it could not confirm are marked "not yet verified" in the article.
