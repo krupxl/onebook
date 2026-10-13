@@ -131,7 +131,20 @@ This file records which English translation is used for each text in the corpus 
 
 ## 7. Taoism
 
-*To be completed when the Taoism research is finished (see `CHANGELOG.md`). Proposed: James Legge, SBE vols 39 and 40 (1891), public domain, checked on ctext.org.*
+| Text | Translation used | Status | Where to check |
+|---|---|---|---|
+| Tao Te Ching | James Legge, *The Tao Teh King*, SBE vol. 39 (1891) | Public domain | ctext.org/dao-de-jing (with the Chinese and manuscript variants); sacred-texts.com/tao |
+| Zhuangzi | James Legge, SBE vols 39 and 40 (1891) | Public domain | ctext.org/zhuangzi; sacred-texts.com/tao |
+| Taishang Ganying Pian | James Legge, SBE vol. 40, Appendix I (1891); D. T. Suzuki and P. Carus (1906) for cross-check | Public domain | sacred-texts.com/tao/sbe40 |
+| Commentaries (Heshang Gong, Wang Bi, Guo Xiang) | Classical Chinese, paraphrased by the project | Public domain (original) | ctext.org |
+
+**Where translation changes meaning**
+- Classical Chinese is terse and has no tense, number or mood. Translators often turn descriptions of the sage into commands, or the reverse. Legge notes, for example, that chapter 63 describes the way of the Tao rather than giving an order.
+- **Tao Te Ching 49**: Legge glosses 善者 as people who are "good (to me)", which frames the line as kindness that does not depend on return; read without the gloss it means simply "good people and not-good people". Either way the scope is everyone. The Mawangdui manuscript reads "the sage constantly has no mind of his own" rather than "has no fixed mind".
+- **Tao Te Ching 63**, 報怨以德: "recompense injury with kindness" (Legge) or "requite resentment with virtue". A modern scholarly conjecture moves the phrase to chapter 79, where it could be read as questioned.
+- **Tao Te Ching 54**, 以身觀身: Legge reads it as observing the effect of cultivated virtue in a person. Some popular modern versions ("use yourself to understand others") create a Golden Rule reading that the classical commentaries do not support. We do not use those versions.
+- **Tao Te Ching 5**, 不仁: "not benevolent" or "impartial" (Legge) versus "ruthless" in some modern versions. The choice changes how strong a counter-passage it appears.
+- **Zhuangzi 18**, 以己養養鳥 ("nourishing the bird with what nourishes oneself"): stable across translations.
 
 ## 8. Stoicism
 

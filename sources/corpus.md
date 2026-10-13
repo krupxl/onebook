@@ -22,7 +22,7 @@ This file fixes which texts count as evidence for each of the thirteen tradition
 | Buddhism | Name all three baskets of the Pali Canon; add early Chinese parallels; Mahayana sutras stay Tier 2 but flagged as primary for Mahayana; add commentaries and treatises to Tier 2 | Avoids quietly favouring one branch |
 | Jainism | Name Agamas by branch; **move the Tattvartha Sutra to Tier 1**; add Digambara primary texts; add commentaries and lay-conduct manuals to Tier 2 | Gives the Digambara branch a Tier 1 text it accepts |
 | Confucianism | Add the Five Classics, standard commentaries (including Zhu Xi) and Xunzi (contested) to Tier 2; record that the Great Learning and Doctrine of the Mean are treated as primary | Gives the tradition's own interpretive voice |
-| Taoism | *See Taoism section (research pending at the time of writing; updated when complete).* | |
+| Taoism | Weight the Zhuangzi Inner Chapters above the rest; record early-manuscript variants; add the classical commentaries, the Liezi (flagged) and religious precept texts to Tier 2; keep the Ganying Pian in Tier 2 | Lets the tradition's own commentators reconcile hard passages |
 | Stoicism | **Add Seneca's moral essays to Tier 1**; add Epictetus' fragments (flagged), early Stoic doxography and Cicero (flagged) to Tier 2 | Seneca's essays are the same author and authority as his letters |
 | Christianity | Split the Bible into the shared canon and the deuterocanon (Tier 1 for Catholic and Orthodox only); add the Didache, Church Fathers and branch-specific authorities to Tier 2 | No finding may rest on a book one branch rejects |
 | Islam | **Add Shia sources (Nahj al-Balagha, al-Kafi) to Tier 2**; treat an-Nawawi's Forty as an anthology; classical commentaries for reconciliation; record that the authentic Sunnah is treated as primary | Islam is no longer tested through one branch only |
@@ -31,7 +31,6 @@ This file fixes which texts count as evidence for each of the thirteen tradition
 | Secular humanism | Name the 2022 Declaration by both titles; add the 1952 and 2002 Amsterdam Declarations and the 1996 Minimum Statement; **move the Secular Humanist Declaration (1980) to Tier 1**; add Humanist Manifesto 2000 and member-organisation explanatory texts to Tier 2 | Matches the founding documents of each humanist body |
 
 The five changes in **bold** alter what can count on its own. They are flagged for the project lead's review in the summary of this session.
-
 ---
 
 ## 1. Hinduism
@@ -173,14 +172,23 @@ The five changes in **bold** alter what can count on its own. They are flagged f
 
 ## 7. Taoism
 
-*Research for Taoism was still running when this file was first written. This section will be completed in the same session and the change recorded in `CHANGELOG.md`.*
+**Tier 1**
+- Tao Te Ching (*Daodejing* 道德經): the received text of the Wang Bi and Heshang Gong lineages. The Mawangdui silk manuscripts (c. 168 BCE) and the Guodian bamboo slips (c. 300 BCE) are recorded as variants where they change the meaning.
+- Zhuangzi 莊子 (Guo Xiang's 33-chapter edition). **The Inner Chapters (1 to 7) carry the most weight.** The Outer (8 to 22) and Miscellaneous (23 to 33) Chapters are canonical but later and by several hands, so the layer is recorded for every citation.
 
-**Tier 1 (proposed, unchanged for now)**
-- Tao Te Ching (*Daodejing* 道德經).
-- Zhuangzi 莊子.
+**Tier 2**
+- Treatise on Response and Retribution (*Taishang Ganying Pian* 太上感應篇). Kept in Tier 2: it is in the Taoist Canon (*Daozang*) and hugely influential in lay practice, but it is a 12th-century morality book drawing on Confucian and Buddhist as well as Taoist teaching, and no Taoist school treats it as a founding scripture.
+- Classical commentaries, for reconciliation: Heshang Gong and Wang Bi on the Tao Te Ching; Guo Xiang (with Cheng Xuanying's sub-commentary) on the Zhuangzi. *Added.*
+- Liezi 列子 (honoured as a "true scripture" by the Tang court in 742). **Flagged:** its date and authenticity are disputed, and its Yang Zhu chapter is a disputed, self-centred strand. *Added.*
+- Religious Taoist precept texts (for example the Lingbao Ten Precepts; the Precepts of Lord Lao). For the religious Taoist branches, whose ethics are taught mainly through ordination precepts. *Added; not yet searched.*
 
-**Tier 2 (proposed, unchanged for now)**
-- Treatise on Response and Retribution (*Taishang Ganying Pian* 太上感應篇).
+**Reasons for changes**
+1. Only the Zhuangzi's Inner Chapters are confidently early. The sharpest attacks on conventional morality (*ren* and *yi*) are in the Outer Chapters, so the layer matters, especially for counter-evidence.
+2. Early manuscripts change some key lines. For example, the Guodian version of chapter 19 reads "abandon artifice and scheming" where the received text reads "abandon benevolence, discard righteousness".
+3. The method requires reconciliation by the tradition's own authorities. Heshang Gong, Wang Bi and Guo Xiang are the standard traditional readings, and Heshang Gong is itself transmitted within religious Taoism.
+4. *Ganying Pian kept in Tier 2.* Promoting it would let a late, mixed text carry a finding alone.
+
+**Branch note.** The old split between "philosophical" Taoism (*Daojia*: Laozi and Zhuangzi) and "religious" Taoism (*Daojiao*: Celestial Masters, Lingbao, Quanzhen, Zhengyi and others) is now questioned by scholars, but it still shapes which texts different readers accept. Philosophical readers often set aside the Ganying Pian and the precept texts; religious Taoists treat the Tao Te Ching as revealed scripture and also use liturgical and precept texts.
 
 ## 8. Stoicism
 

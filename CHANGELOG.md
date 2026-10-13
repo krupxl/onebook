@@ -4,6 +4,11 @@ All changes to the Code, the Register and the method are recorded here, newest f
 
 ## 2026-10-13
 
+### Taoism corpus and translations completed (step 2, follow-up)
+- Completed the Taoism sections of `sources/corpus.md` and `sources/translations.md`, which had been marked pending.
+- Tier 1 unchanged (Tao Te Ching; Zhuangzi), with the Zhuangzi Inner Chapters weighted most and early-manuscript variants recorded. Tier 2 keeps the Ganying Pian and adds the classical commentaries (Heshang Gong, Wang Bi, Guo Xiang), the Liezi (flagged) and religious Taoist precept texts.
+- Translation: James Legge (1891), public domain, checked on ctext.org.
+
 ### Candidate list (step 4)
 - Replaced the `candidates.md` placeholder with 28 candidate principles: the 15 seeds from the brief and 13 further principles that recur across many traditions, found in the first research session.
 - Proposed a floor wording for every candidate.
