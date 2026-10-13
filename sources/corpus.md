@@ -15,7 +15,7 @@ This file fixes which texts count as evidence for each of the thirteen tradition
   1. The brief's settled decisions require that every tradition *clearly teach* an article. Where a major branch's own authoritative texts do not teach a principle, that has not been shown. Loosening this would weaken a settled decision, which needs the project lead's explicit approval.
   2. The rules already bind other traditions in the same way: Judaism must not rest on the Talmud alone, Śvetāmbara texts do not speak for Digambaras, and Islam shows Qur'anic evidence where it exists. A change would reach all of them.
   3. The only immediate effect of a change would have been to admit a pending article. This file forbids changing a rule to rescue an article.
-  4. The open question is better treated as a textual one: whether the texts that every branch accepts teach the principle. For Zoroastrianism, that means searching the Avesta itself, which is being done for Article I.
+  4. The open question is better treated as a textual one: whether the texts that every branch accepts teach the principle. For Zoroastrianism, that means searching the Avesta itself, which was done for Article I on 2026-10-13 (result: not met in the texts every branch accepts; see decision D1).
 
   The project lead may revisit this as a general rule at any time, decided on its merits for every tradition.
 
