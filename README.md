@@ -26,7 +26,7 @@ The project tests an honest hypothesis: that every disagreement on conduct can b
 | File or folder | What it holds |
 |---|---|
 | `code/preamble.md` | The preamble to the Code |
-| `code/articles/` | The admitted articles, one file each, with full evidence |
+| `code/articles/` | The articles, one file each, with full evidence and their status (admitted, or a draft held for a decision) |
 | `code/freedoms-of-conscience.md` | What the Code deliberately leaves to each person and tradition |
 | `register/` | Open questions where the traditions' texts differ |
 | `candidates.md` | Principles waiting to be tested, and their status |
