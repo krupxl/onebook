@@ -62,6 +62,7 @@ This file records which English translation is used for each text in the corpus 
 | Text | Translation used | Status | Where to check |
 |---|---|---|---|
 | Gathas and Yasna | L. H. Mills, SBE vol. 31 (1887), checked against S. Insler (1975) and H. Humbach (1991) | Mills: public domain; Insler, Humbach: copyrighted | avesta.org; sacred-texts.com/zor |
+| Gathas (second philological reading actually used) | C. Bartholomae's German translation, in the English printed by I. J. S. Taraporewala, *The Divine Songs of Zarathushtra* (1951), as on avesta.org. Added 2026-10-13: in practice this is the freely available philological text found by search, alongside Mills. | Copyright status of the 1951 English not yet checked; quoted only briefly | avesta.org (mirrored at zoroastrian.org.uk) |
 | Vendidad | J. Darmesteter, SBE vol. 4 (1895) | Public domain | avesta.org |
 | Yashts | J. Darmesteter, SBE vol. 23 (1883) | Public domain | avesta.org |
 | Shayast-ne-Shayast | E. W. West, SBE vol. 5 (1880) | Public domain | avesta.org/pahlavi |
@@ -73,6 +74,8 @@ This file records which English translation is used for each text in the corpus 
 **Where translation changes meaning**
 - Old Avestan, the language of the Gathas, is among the hardest scriptural languages to translate. Philological translators (Mills, Insler, Humbach) and reformist translators (Taraporewala, Irani, Jafarey) often disagree on whole stanzas. Reformist versions tend to read universal ethical meanings into unclear lines. We give the philological reading as the base and note reformist readings where they differ.
 - ***drəgvant*** ("follower of the Lie", variously "wicked", "deceitful", "liar"): whether it names a moral type, which anyone can become by choice, or a rival group decides the scope of Gathic ethical teaching.
+- **Yasna 33.2 and 47.4.** Mills and Bartholomae commend harming the follower of the Lie (33.2) and being ill-disposed to him (47.4). Modern Zoroastrian translators divide: the Zarathushtrian Assembly (after Humbach) has "foils the wrongful" (33.2) and a statement of what one "can" do (47.4); D. J. Irani makes the object of 33.2 "Evil" but keeps rejection of the wicked at 47.4; F. Azargoshasb keeps "fighting the wicked" (33.2) and contempt (47.4). So it is not accurate to say that reformist translations as a group soften these verses.
+- **Yasna 46.6.** Every translation found has "very good to" the follower of the Lie (forbidden); the difference is in how "very good to" is read (general kindness, or patronage and protection). The "shielding" reading is D. J. Irani's, not Taraporewala's.
 - **Yasna 43.1** (*uštā ahmāi yahmāi uštā kahmāicīt*): reformist renderings make it a reciprocity teaching ("happiness to the one who brings happiness to others"); philological renderings read it as a blessing on whoever receives Mazda's favour, with no reciprocity.
 - West's Pahlavi translations are the only freely available English. Popular quotation collections paraphrase him loosely and disagree on references (for example "94.5" or "95.5"). We cite only West's own text and numbering.
 

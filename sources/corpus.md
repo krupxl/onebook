@@ -2,7 +2,7 @@
 
 This file fixes which texts count as evidence for each of the thirteen traditions. It confirms or refines the starting corpus in the project brief (Section 4). Every change is listed with its reason.
 
-**Version 1.1, 2026-10-13.** (Version 1.1 flags Humanist Manifesto II as historical and records the review of the tier and branch rules; no text was added or moved.) The corpus can be changed later, but only openly: any change must be recorded here and in `CHANGELOG.md`, with reasons, and must never be made to rescue or sink a particular article.
+**Version 1.1, 2026-10-13.** (Version 1.1 flags Humanist Manifesto II as historical, records the review of the tier and branch rules, and corrects the list of Gathas to include Yasna 53; no text was moved between tiers.) The corpus can be changed later, but only openly: any change must be recorded here and in `CHANGELOG.md`, with reasons, and must never be made to rescue or sink a particular article.
 
 ## How the tiers work
 
@@ -96,7 +96,7 @@ The five changes in **bold** alter what can count on its own. They are flagged f
 ## 3. Zoroastrianism
 
 **Tier 1**
-- Avesta, Old Avestan layer: the five Gathas (Yasna 28 to 34, 43 to 51) and the Yasna Haptanghaiti (Yasna 35 to 41). Accepted by every branch.
+- Avesta, Old Avestan layer: the five Gathas (Yasna 28 to 34, 43 to 51 and 53) and the Yasna Haptanghaiti (Yasna 35 to 41). Accepted by every branch. *(Corrected 2026-10-13: Yasna 53, the fifth Gatha, Vahishtoishti, had been left out of the list by mistake.)*
 - Avesta, Younger Avestan layer: the rest of the Yasna, the Visperad, the Yashts and the Khorde Avesta. Accepted as scripture by traditionalists.
 - Vendidad (Videvdad). **Flagged as contested:** traditionalists treat it as scripture; many reformists treat it as a later priestly text with no binding force.
 
