@@ -8,16 +8,22 @@ Do not harm anyone in a way you would not want to be harmed yourself.
 
 **Why**
 
-Everyone knows what it is like to be hurt, cheated, frightened or made to feel small. This article asks you to use that knowledge as a test: if you would not want to be harmed in a certain way, do not harm someone else in that way. Most traditions teach this by asking you to put yourself in the other person's place; it is often called the Golden Rule. Others simply teach that you should harm no one, which includes this and more.
+Everyone knows what it is like to be hurt, cheated, frightened or made to feel small. This article asks you to use that knowledge as a test: if you would not want to be harmed in a certain way, do not harm someone else in that way. Most traditions teach this by asking you to put yourself in the other person's place; it is often called the Golden Rule. Others simply teach that you should harm no one, which includes this and more. The test matters most where one person has power over another, at home or at work, because that is where it is easiest to forget.
 
 **The floor**
 
-What this requires: In your own dealings with other people, do not harm them in ways you would not want to be harmed. Pain, fear, loss and being made to feel small hurt everyone, so "I wouldn't mind" is no excuse. Use the same standard for everyone, whoever they are, and make no exception for yourself. A simple way to keep it: imagine being on the receiving end.
+What this requires: In your own dealings with other people, do not harm them in ways you would not want to be harmed. This includes the people closest to you and the people in your power: your family and household, anyone who works for you, and anyone who depends on you or is under your authority. Pain, fear, loss and being made to feel small hurt everyone, so "I wouldn't mind" is no excuse. Use the same standard for everyone, whoever they are, and make no exception for yourself. A simple way to keep it: imagine being on the receiving end.
+
+**Households and slavery: wording still to be decided (decision D2).** The project lead has decided that this floor covers slavery and authority within households. Read plainly, it then rules out three things, listed separately because the traditions' texts treat them differently:
+- **No cruelty (L1):** do not injure, torment, starve, overwork or humiliate anyone in your household or in your power.
+- **No one owned (L2):** no one may be held or traded as property.
+- **No hitting (L3):** no physical punishment of children, spouses, servants or pupils.
+
+Which of these the final wording includes is for the project lead to decide, after reading the evidence in the [annex on households and slavery](article-01-annex-households.md). A summary is in section E of the counter-evidence below.
 
 What this does not require, or does not settle (each is left to each tradition and to conscience):
 - **Doing good for everyone.** It does not require you to do for others everything you would want for yourself. Many traditions ask for that and more; how much active help to give is a separate question.
 - **Courts, rulers and war.** It does not settle what lawful authorities may do: punishment, self-defence and war. Each tradition answers these in its own way.
-- **Households and slavery.** It does not settle the old questions about authority within households (over children, and in some ancient texts over wives and servants) or about slavery. Several ancient texts accepted these relationships while limiting how people in them may be treated. These questions are to be studied separately (see decision D2).
 - **The beginning and end of life, and animals.** It does not settle who counts at the beginning and end of life, or how animals should be treated. These are separate questions in the [list of candidates](../../candidates.md).
 - **Whom you keep company with.** It does not require you to keep company with everyone. But it still applies to how you treat the people you do not keep company with.
 - **What you feel.** It does not tell anyone what to feel. Many traditions also ask for love or goodwill towards all, and remain free to.
