@@ -289,7 +289,7 @@ Humanism has no scripture. Its founding texts are consensus declarations adopted
 **Tier 1**
 - Declaration of Modern Humanism (Amsterdam Declaration 2022), Humanists International. The current international statement; it replaced the 2002 text.
 - Amsterdam Declaration 2002 and Amsterdam Declaration 1952 (historical founding versions). *Added.*
-- Humanist Manifesto I (1933), **flagged as historical** and as "religious humanism"; Humanist Manifesto II (1973); Humanist Manifesto III, *Humanism and Its Aspirations* (2003), American Humanist Association.
+- Humanist Manifesto I (1933), **flagged as historical** and as "religious humanism"; Humanist Manifesto II (1973), **flagged as historical** (the American Humanist Association has declared Manifestos I and II historic and superseded by Manifesto III; flag added 2026-10-13 after the independent check of Article I); Humanist Manifesto III, *Humanism and Its Aspirations* (2003), American Humanist Association.
 - IHEU Minimum Statement on Humanism (1996), the formal definition adopted by the international body. *Added.*
 - A Secular Humanist Declaration (1980), drafted by Paul Kurtz for the Council for Democratic and Secular Humanism (now the Council for Secular Humanism). **Moved from Tier 2.**
 
