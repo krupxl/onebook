@@ -2,6 +2,19 @@
 
 All changes to the Code, the Register and the method are recorded here, newest first. Dates are in ISO format (YYYY-MM-DD).
 
+## 2026-10-14
+
+### Article II research packed for local work; handover written
+- **New file `HANDOVER.md`**: where every article and Register entry stands, the preliminary labels for Article II, the exact next steps, open flags for the project lead, and lessons from the cloud environment. To be updated at the end of every session.
+- **New folder `research/`**: the raw research for Article II (`research/article-02/`: the brief, the leads, round 1 and round 2 records for all thirteen traditions, and the workflow scripts that ran the agents); tools for reading the texts (`research/tools/`); and `research/setup_sources.sh`, which fetches the open datasets of the texts so the work can continue on any computer. The research records are working material, not findings.
+
+### Article II started (candidate C02, "Do not kill the innocent"), method steps 1 to 4
+- **Floor under test (K1):** "Never deliberately kill another person, from birth onwards, unless it is needed to stop them from killing or gravely harming someone", binding everyone acting on their own authority, including within households. Left outside it: courts and rulers, war, life before birth, the end of one's own life, animals and accidents. A lower floor (K0: no killing for gain, anger, hatred or revenge) and a record wording on non-combatants in war (K3) were researched at the same time. `candidates.md`: C02 marked Testing.
+- **Research, round 1:** one support researcher, one counter-evidence researcher and one independent verifier per tradition, under nine written labelling rules that mirror the annex rules of Article I.
+- **Research, round 2:** for each tradition, a direct verifier who read the deciding passages in the reference sites' own published data, then an independent challenger who argued each label was wrong in either direction.
+- **New decision on method** (`METHOD.md`, section 9, decision 12): reading a passage in full in a reference site's own published dataset, or in a named open dataset of the same public-domain or authorised translation, counts as `VERIFIED (direct)`. Reason: the sites could not be opened from the working environment; the text read is the same.
+- No verdict yet. Next steps are in `HANDOVER.md`.
+
 ## 2026-10-13
 
 ### Independent check of Register Q-002; two labels changed (method step 7)

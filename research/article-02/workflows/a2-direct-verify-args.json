@@ -1,0 +1,80 @@
+[
+ {
+  "name": "Judaism",
+  "prefix": "JU",
+  "budget": 5,
+  "priority": "Exodus 20:13; Genesis 9:5 to 6; Leviticus 24:17 and 24:22; Exodus 21:12 to 14 and 21:20 to 21; Exodus 1:15 to 21; Numbers 35:9 to 34 (especially 12, 19, 21, 24 to 27); Deuteronomy 19:1 to 13; Numbers 25:1 to 13; Psalm 106:30 to 31; Deuteronomy 13:7 to 12; Proverbs 24:29; Leviticus 19:18; Mishnah Sanhedrin 4:5; Babylonian Talmud Sanhedrin 74a, 81b to 82a, Pesachim 25b, Makkot 12a (the blood avenger); Mishnah Niddah 5:3; Deuteronomy 20:16 to 17, Numbers 31:17 to 18, 1 Samuel 15:3 (K3); Mishneh Torah, Kings and Wars 6:1 (find it in Sefaria)."
+ },
+ {
+  "name": "Christianity",
+  "prefix": "CH",
+  "budget": 10,
+  "priority": "Old Testament as for Judaism (Sefaria JPS 1917, and KJV.json): Exodus 20:13; Genesis 9:5 to 6; Numbers 35:9 to 34; Numbers 25:1 to 13; Psalm 106:30 to 31; 1 Kings 18:40; Deuteronomy 13:6 to 10; Deuteronomy 19:6; Exodus 1:15 to 21; Exodus 21:20 to 21; Deuteronomy 20:16 to 17; 1 Samuel 15:3; Joshua 6:21. New Testament (KJV.json): Matthew 5:21 to 22, 5:43 to 48, 19:16 to 19, 26:52; Luke 6:27 to 35, 9:54 to 55, 10:29 to 37; Romans 12:17 to 21, 13:1 to 4, 13:8 to 10; 1 John 3:11 to 15; James 2:11. Catholic and Orthodox canon (KJVA.json): 1 Maccabees 2:23 to 26 (Mattathias kills in zeal, likened to Phinehas). Aquinas and Augustine are not local: keep their status."
+ },
+ {
+  "name": "Islam",
+  "prefix": "IS",
+  "budget": 10,
+  "priority": "Qur'an (Arabic, Pickthall, Sahih International): 5:27 to 32; 6:137; 6:140; 6:151; 17:31; 17:33; 4:29 to 30; 4:92 to 93; 25:68; 81:8 to 9; 60:12; 2:178 to 179; 2:194; 4:90; 4:94; 9:5 to 6; 42:40; 47:4. Hadith with grades: Bukhārī 111, 3015, 3166, 4339, 4477, 6878, 6915, 6922; Muslim: the Farewell Sermon (1218), 1498 (Saʿd ibn ʿUbāda), 1731, 1812, 1844 (search the text, numbering may differ); Abū Dāwūd 4361, 4362, 4404, 4515, 2614, 2669. Shia texts (Nahj al-Balāgha Letters 14 and 53; al-Kāfī) are not local: use search within budget or keep status."
+ },
+ {
+  "name": "Stoicism",
+  "prefix": "ST",
+  "budget": 5,
+  "priority": "Seneca, De Ira 1.15.1 to 3, 2.31, 3.12, 3.32, 3.40 (Vedius Pollio); Letters 47, 95.30 to 33, 95.51 to 53; De Clementia 1.14 to 1.18; De Beneficiis 3.18 to 3.22; Epictetus, Discourses 1.13 and 1.23 (Greek and English in Perseus); Marcus Aurelius, Meditations 2.1, 6.6, 10.10 (Greek). Musonius Rufus is not local: keep status."
+ },
+ {
+  "name": "Confucianism",
+  "prefix": "CO",
+  "budget": 5,
+  "priority": "Mencius (Kanripo kr1h0001) 2A.2 (殺一不辜), 7A.33 (殺一無罪), 1A.6, 1B.8, 1B.11, 2B.8, 3B.5, 4B.28, 5A.3, 7A.35, 7B.3, 7B.4, 7B.7; Analects (kr1h0004) 12.2, 12.19, 12.21, 14.34 (or 14.36 in some numberings: 以直報怨), 15.24, 16.7. The Great Learning and Doctrine of the Mean are chapters of the Book of Rites and are not local: keep their status."
+ },
+ {
+  "name": "Taoism",
+  "prefix": "TA",
+  "budget": 5,
+  "priority": "Tao Te Ching (Kanripo kr5c0057; note this edition may include commentary: find the main text) chapters 27, 30, 31, 46, 49, 60, 62, 63, 67, 68, 69, 74, 81 (利而不害); Zhuangzi (kr5c0126) passages cited in the rows (for example chapters 19, 24, 25, 28). The Ganying Pian and precept texts are not local: keep status."
+ },
+ {
+  "name": "Sikhism",
+  "prefix": "SI",
+  "budget": 5,
+  "priority": "Guru Granth Sahib (gurbani.py): ang 1375 (Kabir saloks 199 and 200), 1374 to 1375 (salok 187), 1103 (Kabir, Rag Maru), 1384 (Farid), 1427 (Guru Tegh Bahadur), 1382 (Farid salok 78), 1378 (Farid salok 7), 140 to 141, 473 and every other ang cited in the rows; also grep the Guru Granth Sahib for any line approving a killing of a person. The Sikh Rehat Maryada and Dasam Granth are not local: keep status."
+ },
+ {
+  "name": "Bahá'í Faith",
+  "prefix": "BA",
+  "budget": 10,
+  "priority": "Kitáb-i-Aqdas ¶19, ¶37, ¶62, ¶72, ¶73, ¶144, ¶148 (aqdas.json, with the Arabic); Gleanings passages cited (gleanings.json), including CXIX if present; Hidden Words cited; Epistle to the Son of the Wolf passages on the abolition of holy war. Some Answered Questions and the Tablet of Glad-Tidings (Lawḥ-i-Bishárát) are not local: use search within budget or keep status."
+ },
+ {
+  "name": "Buddhism",
+  "prefix": "BU",
+  "budget": 5,
+  "priority": "Re-read in the local datasets the deciding rows: Dhammapada 129 to 130; SN 55.7; SN 3.8; Snp 394 (Dhammika Sutta); MN 41; AN 8.39; Vinaya Pārājika 3; SN 42.3; and in CBETA the Mahāparinirvāṇa Sūtra passages (T374 juan 12 and 16; check T375 for the southern recension too) on the icchantika and on King Sen'yo, with the commentaries of Huiyuan (T37n1764) and Guanding (T38n1767), and the Brahmajāla Sūtra (T24n1484) first major precept and tenth and twenty-first light precepts. Confirm every row's tier and branch against corpus.md (whether Mahāyāna sutras are treated as primary for Mahāyāna)."
+ },
+ {
+  "name": "Hinduism",
+  "prefix": "HI",
+  "budget": 15,
+  "priority": "Bhagavad Gita (gita data, Sanskrit with a named English translator): 2.19 to 21, 2.31 to 38, 6.32, 10.5, 13.7, 16.1 to 3, 16.14, 16.19, 16.21, 17.14. Not local, search within budget: Chāndogya Upaniṣad 8.15.1 and 3.17.4 (Müller, SBE 1); Śatapatha Brāhmaṇa 13.6.2.13; Bṛhadāraṇyaka Upaniṣad 6.4.12; Atharvaveda 10.1."
+ },
+ {
+  "name": "Zoroastrianism",
+  "prefix": "ZO",
+  "budget": 25,
+  "priority": "None of the Avesta is local. Use search within budget, preferring sacred-texts.com (Mills, SBE 31; Darmesteter, SBE 4) and avesta.org, and record each link: Yasna 31.18, 33.2, 47.4, 46.6, 30.6, 29.1, 32.11, 48.7, 49.4, 53.8 to 9; Yasna 12.2 to 9; Vendidad, Fargard 4 (the grade where the victim dies)."
+ },
+ {
+  "name": "Jainism",
+  "prefix": "JA",
+  "budget": 25,
+  "priority": "None of the Jain texts is local. Use search within budget, preferring sacred-texts.com (Jacobi, SBE 22 and 45): Ācārāṅga I.2.3, I.4.1, I.4.2; Sūtrakṛtāṅga I.1.4.10, I.11.10, II.2; Uttarādhyayana VI.6; Tattvārtha Sūtra 7.1, 7.2, 7.8 (= 7.13 Digambara); Bhagavatī 7.9."
+ },
+ {
+  "name": "Secular humanism",
+  "prefix": "HU",
+  "budget": 20,
+  "priority": "None of the declarations is local. Use search within budget on humanists.international and americanhumanist.org: the 2022 Declaration (helping and not harming; duty of care to all of humanity; rejection of racism and prejudice); the 2002 Amsterdam Declaration (fundamental number of 'Humanism is ethical'); Humanist Manifesto III (inherent worth and dignity; free of cruelty; without resorting to violence)."
+ }
+]
